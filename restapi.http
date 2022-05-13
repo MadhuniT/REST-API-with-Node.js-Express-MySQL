@@ -1,0 +1,12 @@
+http://localhost:3000/api/student/
+
+###
+POST http://localhost:3000/api/student/
+Content-Type: application/json
+
+{
+    "name": "sanduni",
+    "age": 25,
+    "email": "madhuniw@gmail.com",
+    "password":"sanduni@123"
+}
